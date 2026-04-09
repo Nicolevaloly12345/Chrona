@@ -1,0 +1,5 @@
+{
+  "name": "CHRONA",
+  "description": "Intelligent traffic management and route optimization app to reduce congestion and improve travel times.",
+  "requestFramePermissions": ["geolocation", "microphone"]
+}
